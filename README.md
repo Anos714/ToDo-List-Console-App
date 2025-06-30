@@ -18,5 +18,5 @@ This is a simple console-based To-Do List application built using Python. It all
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-console-app.git
+   git clone https://github.com/Anos714/todo-list-console-app.git
    ```
